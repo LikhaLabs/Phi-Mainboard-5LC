@@ -8,4 +8,4 @@ While Phi’s feature set is geared toward 3D printers, it can also be used to d
 
 ![phi-mb5lc](phi-mainboard-5lc.jpg)
 
-Hardware design files (schematics and layout) for Phi will be uploaded to this repository shortly after the board ships to backers. Documentation materials will be added over the course of delivery on the [project wiki page](https://github.com/LikhaLabs/Phi-Mainboard-5LC/wiki).
+Hardware design files (schematics and layout) for Phi will be uploaded to this repository shortly after the board ships to backers. Documentation will be added over the course of delivery on the [project wiki page](https://github.com/LikhaLabs/Phi-Mainboard-5LC/wiki).
